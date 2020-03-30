@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1ZrTrlbdsn8F3y3Y2S9pLla311A" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/60" />
+  </component>
+  <component name="RunManager">
+    <configuration name="58" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Zbior_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/58" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58/58.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.58" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2931" y="-422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585596532286">
+      <screen x="1920" y="-889" width="2560" height="1440" />
+    </state>
+    <state x="2931" y="-422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720/1920.-889.2560.1440@1920.-889.2560.1440" timestamp="1585596532286" />
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom" timestamp="1585596569144">
+      <screen x="1920" y="-889" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.-889.2560.1440@1920.-889.2560.1440" timestamp="1585596569144" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center" timestamp="1585596569144">
+      <screen x="1920" y="-889" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.1280.720/1920.-889.2560.1440@1920.-889.2560.1440" timestamp="1585596569144" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left" timestamp="1585596569144">
+      <screen x="1920" y="-889" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.1280.720/1920.-889.2560.1440@1920.-889.2560.1440" timestamp="1585596569144" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right" timestamp="1585596569144">
+      <screen x="1920" y="-889" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.1280.720/1920.-889.2560.1440@1920.-889.2560.1440" timestamp="1585596569144" />
+  </component>
+</project>
